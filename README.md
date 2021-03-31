@@ -1,0 +1,2 @@
+# pestelworld
+worldwide pestel analysis
